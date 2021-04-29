@@ -1,0 +1,25 @@
+h1{
+    background-color: #00FFFF;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+
+.places{
+    background-color: #FFFF00;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{  
+    position: relative
+}
+
+.item h2{
+    position: relative;
+    margin-left: 50px;
+}
+
+.item img{
+    margin-left:50px
+}
